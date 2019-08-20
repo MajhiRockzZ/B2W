@@ -1,2 +1,5 @@
-# 🎨 B2W-Front-End
-Bootstrap to WordPress | WordPress Theme Development
+# 🎨 Bootstrap to WordPress
+
+* Bootstrap-3
+* FontAwesome
+* Google Fonts
